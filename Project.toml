@@ -1,0 +1,9 @@
+name = "SphericalBoltzmannMachineEnsembles"
+uuid = "3f85bb90-d96b-4dea-ad2a-4487d8e2c545"
+
+authors = ["Thomas Tulinski"]
+version = "0.1.0"
+
+[deps]
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+ToeplitzMatrices = "04bd5ee4-b9ef-5938-a0d7-6c579f8dcf95"
